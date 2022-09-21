@@ -77,3 +77,5 @@ CREATE TABLE titles(
 	title VARCHAR(30) NOT NULL,
 	PRIMARY KEY (title_id)
 );
+
+SELECT * FROM titles
